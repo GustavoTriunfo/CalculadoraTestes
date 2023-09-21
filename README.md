@@ -10,9 +10,9 @@ Os testes unitários desempenham um papel fundamental no desenvolvimento de soft
 
 <h3>Teste de Soma com Números Positivos:</h3>
 
-- Esses testes verificam o comportamento das operações matemáticas básicas com números inteiros positivos.
-- Cada teste cria uma instância da classe correspondente (por exemplo, Soma, Subtracao) e chama o método apropriado (por exemplo, somar, subtrair) com valores de entrada específicos.
-- Os resultados são comparados com valores esperados para determinar se a operação funciona corretamente.
+- Este teste verifica se a operação de soma lida corretamente com um dos operandos sendo zero.
+- Ele cria uma instância da classe Soma e chama o método somar com dois operandos positivos.
+- O resultado é comparado com o valor esperado.
  
 ```java
   public static void testarSoma() {
