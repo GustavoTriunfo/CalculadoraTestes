@@ -8,7 +8,7 @@ Este projeto foi desenvolvido para o aprendizado de testes unitários. Inicialme
 
 Os testes unitários desempenham um papel fundamental no desenvolvimento de software, pois ajudam a garantir que o código funcione conforme o esperado e que as mudanças subsequentes não introduzam regressões ou erros. Vamos discutir as mecânicas dos testes mencionados anteriormente e como eles podem ser implementados usando o framework JUnit.
 
-<h3>Testes de Soma com Números Positivos:</h3>
+<h3>Teste de Soma com Números Positivos:</h3>
 
 - Esses testes verificam o comportamento das operações matemáticas básicas com números inteiros positivos.
 - Cada teste cria uma instância da classe correspondente (por exemplo, Soma, Subtracao) e chama o método apropriado (por exemplo, somar, subtrair) com valores de entrada específicos.
@@ -84,7 +84,7 @@ Os testes unitários desempenham um papel fundamental no desenvolvimento de soft
         }
     }
 ```
-## Implementação dos Testes com JUnit:
+## Implementação dos Testes com JUnit: 🛠️
 
 O JUnit é um framework popular para a realização de testes unitários em Java. Ele oferece uma estrutura mais organizada e automatizada para escrever, executar e relatar testes. Abaixo, mostramos como alguns dos testes mencionados anteriormente podem ser implementados usando o JUnit:
 ```java
@@ -124,9 +124,11 @@ O JUnit é um framework popular para a realização de testes unitários em Java
 
 
 
+## Contribuição ⬆️
 
+Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adicionar novas funcionalidades a este projeto. Basta criar um fork do repositório, fazer suas modificações e enviar um pull request.
 
-## Publicação
+## Publicação 📦
 
 Você pode baixar o aquivo zip do projeto no menu de release desse repositório.
 
