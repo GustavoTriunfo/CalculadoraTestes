@@ -2,7 +2,7 @@
 
 ## Descrição 📖
 
-Este projeto foi desenvolvido para o aprendizado de testes unitários. Inicialmente o objetivo foi desenvolver classes para uma calculadora e suas operações básicas. Depois disso, para implementar os testes, foi cirada uma classe denominada "ClasseDeTeste" que ficou com a responsabilidade de efetuar testes nos métodos de operações matemáticas. Depois disso, foi criada uma nova classe a "CALCULADORAJUNITTEST" que tem como principal e única responsabilidade aplicar os testes em JUnit dos métodos criados anteriormente. Nesse contexto fica muito evidente a facilidade de trabalhar com teste de uma unidade do código utilizando um framework já pronto. Isso acelera o processo e facilita o desenvolvimento. Por outro lado demanda mais conhecimento do programador para atender as especificações do teste a ser construído.
+Este projeto foi desenvolvido para o aprendizado de testes unitários. Inicialmente o objetivo foi desenvolver classes para uma calculadora e suas operações básicas. Depois disso, para implementar os testes, foi criada uma classe denominada "ClasseDeTeste" que ficou com a responsabilidade de efetuar testes nos métodos de operações matemáticas. Depois disso, foi criada uma nova classe a "CALCULADORAJUNITTEST" que tem como principal e única responsabilidade aplicar os testes em JUnit dos métodos criados anteriormente. Nesse contexto fica muito evidente a facilidade de trabalhar com teste de uma unidade do código utilizando um framework já pronto. Isso acelera o processo e facilita o desenvolvimento. Por outro lado demanda mais conhecimento do programador para atender as especificações do teste a ser construído.
 
 ## Mecânicas dos Testes Unitários: ‍🔧
 
