@@ -10,7 +10,7 @@ Os testes unitários desempenham um papel fundamental no desenvolvimento de soft
 
 <h3>Teste de Soma com Números Positivos:</h3>
 
-- Este teste verifica se a operação de soma lida corretamente com um dos operandos sendo zero.
+- Este teste verifica se a operação de soma lida corretamente com os números positivos.
 - Ele cria uma instância da classe Soma e chama o método somar com dois operandos positivos.
 - O resultado é comparado com o valor esperado.
  
