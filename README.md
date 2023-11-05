@@ -132,5 +132,30 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou adicio
 
 Você pode baixar o aquivo zip do projeto no menu de release desse repositório.
 
+## Documentação
 
-## Última atualização: 21/09/2023
+Foi gerada toda a documentação do projeto da calculadora em Javadoc a partir dos comentários de documentação em todas as classes, métodos e parâmetros. Segue um trecho da documentação existente nesse projeto:
+```java
+/**@author Gustavo Costa
+ * @version 1.1
+ * @since 29/10/2023**/
+
+/** A classe Classe de Teste foi criada para a criação dos testes de uma 
+ * forma mais primitiva. Ou seja, não são testes que utilizam algum framework open-source como o JUnit.**/
+public class ClasseDeTeste 
+{
+ /** Aqui temos o método de execução "main" onde os métodos de teste são chamados. 
+	 * Todos eles foram criados dentro da própria classe "ClasseDeTeste" e são chamados dentro desse método interno.
+	 * Repare como os nomes dos métodos referentes as operações matemáticas são denominados de uma forma clara, auto explicativos.**/
+    public static void main(String[] args) 
+    {
+        testarSoma();
+        testarSubtracao();
+        testarMultiplicacao();
+        testarDivisao();
+        testarSomaComZero();
+        testarSomaComNegativos();
+        testarDivisaoPorZero();
+    }
+```
+## Última atualização: 05/11/2023
